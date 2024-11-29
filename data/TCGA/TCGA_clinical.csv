@@ -1,0 +1,186 @@
+,age,year,gender,diagnosis,time,status,pathologicT,pathologicM,pathologicN,pathologicStage
+TCGA-VR-AA4D,53,1957,male,0,1405,Dead,T1,M0,N1,Stage IIB
+TCGA-JY-A6FD,51,1957,female,0,'--,Alive,T3,M0,N0,Stage IIA
+TCGA-2H-A9GF,67,1934,male,0,784,Dead,T3,M0,N1,Stage III
+TCGA-L5-A43H,75,1936,male,0,9,Dead,T3,M0,N1,Stage III
+TCGA-2H-A9GN,70,1930,male,0,272,Dead,T3,M0,N1,Stage III
+TCGA-Q9-A6FU,57,1955,female,0,157,Dead,T3,M0,N2,Stage IIIB
+TCGA-L5-A4OR,83,1927,male,0,96,Dead,T1,MX,N0,Stage IA
+TCGA-L5-A4OE,81,1930,male,0,730,Dead,T3,'--,N2,Stage IIIB
+TCGA-LN-A49V,49,1962,male,0,'--,Alive,T3,M0,N0,Stage IIA
+TCGA-IG-A3QL,54,1957,male,0,'--,Alive,T2,M0,N0,Stage IIA
+TCGA-VR-A8EX,63,1946,male,0,855,Dead,T1,M1a,N1,Stage IVA
+TCGA-L5-A4OF,63,1949,male,0,801,Dead,T1,'--,N1,Stage IIB
+TCGA-JY-A939,77,1935,male,0,'--,Alive,T1,M0,N1,Stage IIB
+TCGA-LN-A49K,66,1944,male,0,180,Dead,T3,M0,N0,Stage IIA
+TCGA-L5-A4OW,56,1950,female,0,217,Dead,T2,M0,N1,Stage IIB
+TCGA-Z6-A8JE,57,1956,male,0,'--,Alive,T3,M0,N1,Stage IIIA
+TCGA-M9-A5M8,58,'--,male,0,'--,Alive,T3,M0,N0,Stage IIA
+TCGA-R6-A8W5,60,1944,male,0,480,Dead,T3,M1a,N1,Stage IVA
+TCGA-L5-A8NQ,71,1930,male,0,650,Dead,T2,M0,N0,Stage IIA
+TCGA-L5-A4OM,54,1956,female,0,1458,Dead,T1,'--,N0,Stage IA
+TCGA-Z6-A9VB,53,1960,male,0,'--,Alive,T3,M0,N1,Stage IIIA
+TCGA-L5-A43J,90,1921,male,0,0,Dead,T3,MX,N0,Stage IIB
+TCGA-L5-A43I,77,1934,male,0,556,Dead,T3,MX,N1,Stage IIIA
+TCGA-L5-A88S,84,1929,male,0,'--,Alive,T3,MX,N0,Stage IB
+TCGA-Z6-AAPN,57,1956,male,0,'--,Alive,T3,M0,N0,Stage IIA
+TCGA-JY-A6FE,49,1960,male,0,112,Dead,T3,M0,N1,Stage III
+TCGA-VR-A8Q7,60,1950,male,0,'--,Alive,T3,M0,N1,Stage IIIA
+TCGA-L5-A43M,84,1925,female,0,'--,Alive,T3,MX,N2,'--
+TCGA-LN-A7HV,58,1954,male,0,'--,Alive,T2,M0,N0,Stage IIA
+TCGA-L5-A8NS,76,1925,male,0,'--,Alive,T3,M0,N0,Stage IIB
+TCGA-LN-A4MQ,46,1964,male,0,'--,Alive,T3,M0,N1,Stage III
+TCGA-JY-A6FA,51,1955,male,0,1361,Dead,T2,M0,N1,Stage IIB
+TCGA-LN-A9FQ,62,1951,male,0,'--,Alive,T3,M0,N0,Stage IIA
+TCGA-V5-A7RE,45,'--,male,0,'--,Alive,T1,M0,N0,Stage IB
+TCGA-LN-A4A3,61,1950,male,0,'--,Alive,T3,M0,N1,Stage III
+TCGA-LN-A4A1,60,1951,male,0,'--,Alive,T3,M0,N0,Stage IIA
+TCGA-LN-A49O,47,1964,male,0,'--,Alive,T3,M0,N0,Stage IIA
+TCGA-R6-A6XG,64,1947,male,0,'--,Alive,'--,'--,'--,'--
+TCGA-IG-A4QT,56,1956,male,0,283,Dead,T3,M0,N0,Stage IIA
+TCGA-L5-A4OH,71,1941,male,0,'--,Alive,T1,M0,N0,Stage I
+TCGA-IG-A7DP,50,1963,female,0,'--,Alive,T4a,MX,NX,Stage IIIA
+TCGA-IG-A6QS,54,1959,male,0,303,Dead,T2,M0,N1,Stage IIB
+TCGA-VR-AA7D,58,1954,male,0,279,Dead,T3,M0,N3,Stage IIIC
+TCGA-S8-A6BV,76,1936,male,0,'--,Alive,T3,MX,N1,Stage IIIA
+TCGA-VR-A8EQ,73,1936,male,0,694,Dead,T3,M0,N1,Stage III
+TCGA-L5-A8NI,79,1925,male,0,410,Dead,T3,M0,N1,Stage III
+TCGA-IG-A3Y9,72,1940,male,0,26,Dead,T4,M0,N0,Stage IIIA
+TCGA-LN-A49R,46,1965,male,0,'--,Alive,T3,M0,N1,Stage III
+TCGA-L5-A88Z,70,1935,female,0,'--,Alive,T1,M0,N1,Stage IIA
+TCGA-LN-A5U6,54,1958,male,0,'--,Alive,T2,M0,N1,Stage IIB
+TCGA-LN-A4A5,49,1962,male,0,681,Dead,T2,M0,N0,Stage IIA
+TCGA-JY-A93E,61,1951,male,0,'--,Alive,T3,M0,N1,Stage IIIA
+TCGA-L5-A8NK,84,1920,female,0,'--,Alive,T3,M0,N0,Stage IIA
+TCGA-JY-A6FG,50,1959,male,0,1263,Dead,T3,M0,N1,Stage III
+TCGA-L5-A4OO,75,1935,male,0,'--,Alive,T3,M0,N3,Stage IIIC
+TCGA-VR-A8ER,54,1955,male,0,378,Dead,T4,M0,N1,Stage III
+TCGA-L5-A4OQ,75,1935,male,0,42,Dead,T2,MX,N2,Stage IIIA
+TCGA-LN-A8I0,52,1961,male,0,'--,Alive,T2,M0,N0,Stage IIA
+TCGA-XP-A8T7,63,1947,female,0,'--,Alive,T2,M0,N0,Stage IIA
+TCGA-L5-A8NH,54,1947,male,0,393,Dead,T1,M1,N0,Stage IV
+TCGA-IG-A625,60,1952,male,0,390,Dead,T3,M0,N2,Stage IIIB
+TCGA-IG-A97H,36,1977,male,0,'--,Alive,T3,M0,NX,Stage IIA
+TCGA-2H-A9GH,44,1954,male,0,951,Dead,T1,M0,N1,Stage IIB
+TCGA-R6-A8WG,60,1953,male,0,386,Dead,'--,'--,'--,'--
+TCGA-2H-A9GK,43,1957,male,0,232,Dead,T3,M0,N1,Stage III
+TCGA-IC-A6RE,59,1954,male,0,'--,Alive,T1,M0,N1,Stage IIB
+TCGA-LN-A5U5,57,1955,male,0,136,Dead,T3,M1,N1,Stage IV
+TCGA-2H-A9GM,53,1947,male,0,424,Dead,T1,M0,N1,Stage IIB
+TCGA-IG-A4P3,48,1964,male,0,567,Dead,T2,M0,N1,Stage IIB
+TCGA-S8-A6BW,51,1961,male,0,'--,Alive,T2,MX,N0,Stage IB
+TCGA-L5-A8NT,69,1932,male,0,'--,Alive,T3,M0,N0,Stage IIB
+TCGA-L5-A8NE,77,1923,male,0,'--,Alive,T2,M0,N1,Stage IIB
+TCGA-L5-A88T,86,1926,male,0,'--,Alive,T2,M0,N1,Stage IIB
+TCGA-L5-A43E,74,1937,male,0,'--,Alive,T1,M0,N0,Stage I
+TCGA-IG-A3YC,62,1950,male,0,'--,Alive,T3,M0,N1,Stage IIIA
+TCGA-V5-AASX,74,'--,male,0,'--,Alive,'--,'--,'--,'--
+TCGA-2H-A9GG,66,1933,male,0,610,Dead,T3,M0,N1,Stage III
+TCGA-VR-A8EO,49,1964,male,0,'--,Alive,T3,M0,N0,Stage IIA
+TCGA-L7-A56G,65,1947,male,0,330,Dead,'--,'--,'--,'--
+TCGA-VR-A8EW,57,1955,male,0,247,Dead,T3,M0,N2,Stage IIIB
+TCGA-R6-A6Y0,54,1951,male,0,'--,Alive,'--,'--,'--,'--
+TCGA-LN-A7HY,50,1963,male,0,'--,Alive,T3,M0,N1,Stage III
+TCGA-IG-A97I,58,1955,male,0,'--,Alive,T2,M0,N0,Stage IIA
+TCGA-IG-A3YA,53,1959,male,0,'--,Alive,T4,M0,N0,Stage IIIA
+TCGA-IG-A3I8,51,1960,female,0,'--,Alive,T3,M0,N0,Stage IIA
+TCGA-JY-A93D,51,1961,male,0,960,Dead,T2,M0,N3,Stage IIIC
+TCGA-R6-A6L6,68,1942,male,0,214,Dead,'--,'--,'--,'--
+TCGA-L5-A4OX,60,1946,male,0,226,Dead,T2,M0,N1,Stage IIB
+TCGA-L5-A8NG,77,1924,male,0,'--,Alive,T3,M0,N1,Stage III
+TCGA-R6-A6XQ,58,1950,male,0,193,Dead,'--,'--,'--,'--
+TCGA-LN-A8I1,67,1946,female,0,'--,Alive,T2,M0,N0,Stage IIA
+TCGA-LN-A49Y,77,1934,male,0,'--,Alive,T3,M0,N0,Stage IIA
+TCGA-V5-AASV,67,'--,male,0,'--,Alive,T3,MX,N0,Stage IIB
+TCGA-LN-A7HX,72,1941,male,0,'--,Alive,T2,M0,N0,Stage IIA
+TCGA-XP-A8T8,49,1962,male,0,'--,Alive,T1,M0,N1,Stage IIB
+TCGA-R6-A6KZ,42,1968,male,0,154,Dead,'--,'--,'--,'--
+TCGA-JY-A6F8,56,1947,male,0,'--,Alive,T1,M0,N0,Stage I
+TCGA-L5-A8NN,81,1923,male,0,'--,Alive,T3,M0,N1,Stage III
+TCGA-RE-A7BO,72,1934,female,0,213,Dead,T1,M0,N1,Stage IIB
+TCGA-VR-AA7B,65,1946,female,0,'--,Alive,T3,M1,N3,Stage IV
+TCGA-LN-A49U,62,1949,male,0,'--,Alive,T3,M0,N0,Stage IIA
+TCGA-L5-A4OT,77,1929,male,0,149,Dead,T3,M1a,N1,Stage IV
+TCGA-LN-A7HW,59,1954,male,0,'--,Alive,T2,M0,N0,Stage IIA
+TCGA-L5-A4OP,67,1943,female,0,'--,Alive,T1,MX,N0,Stage IA
+TCGA-JY-A938,75,1937,male,0,'--,Alive,T3,M0,N0,Stage IIB
+TCGA-LN-A9FP,60,1953,female,0,'--,Alive,T2,M0,N0,Stage IIA
+TCGA-IG-A4QS,71,1941,male,0,118,Dead,T3,M0,N2,Stage IIIB
+TCGA-R6-A8WC,56,1957,male,0,'--,Alive,'--,'--,'--,'--
+TCGA-L5-A8NL,56,1948,male,0,'--,Alive,T3,M0,N1,Stage III
+TCGA-IC-A6RF,69,1944,female,0,'--,Alive,T1,M0,N0,Stage IA
+TCGA-L5-A8NJ,77,1923,male,0,'--,Alive,T3,M0,N1,Stage III
+TCGA-IG-A50L,58,1954,male,0,'--,Alive,T3,M0,N1,Stage IIIA
+TCGA-IG-A3YB,61,1951,male,0,'--,Alive,T3,M0,N1,Stage IIIA
+TCGA-IG-A8O2,62,1951,male,0,142,Dead,T3,M0,N2,Stage IIIB
+TCGA-VR-AA7I,70,1940,male,0,484,Dead,T4,M0,N0,Stage III
+TCGA-IG-A5B8,72,1940,male,0,24,Dead,T3,M0,N0,Stage IB
+TCGA-JY-A93F,58,1954,female,0,'--,Alive,T2,M0,N0,Stage IB
+TCGA-LN-A4A2,57,1954,male,0,'--,Alive,T3,M0,N0,Stage IIA
+TCGA-L5-A43C,81,1928,male,0,'--,Alive,'--,'--,'--,'--
+TCGA-L5-A8NM,84,1920,female,0,236,Dead,T2,M0,N1,Stage IIB
+TCGA-LN-A4A8,52,1960,male,0,'--,Alive,T2,M0,N0,Stage IIA
+TCGA-V5-A7RC,55,'--,male,0,104,Dead,'--,'--,'--,'--
+TCGA-2H-A9GL,74,1926,male,0,180,Dead,T3,M0,N1,Stage III
+TCGA-R6-A6DN,58,1953,male,0,243,Dead,'--,'--,'--,'--
+TCGA-LN-A49L,44,1966,male,0,318,Dead,T2,M0,N0,Stage IIA
+TCGA-V5-AASW,72,'--,male,0,'--,Alive,'--,'--,'--,'--
+TCGA-LN-A49N,50,1960,male,0,'--,Alive,T2,M0,N1,Stage IIB
+TCGA-L5-A4OU,81,1928,male,0,'--,Alive,T3,M0,N0,Stage IIA
+TCGA-LN-A49X,44,1967,male,0,'--,Alive,T3,M0,N0,Stage IIA
+TCGA-R6-A6Y2,71,1934,male,0,283,Dead,'--,'--,'--,'--
+TCGA-LN-A49M,62,1948,male,0,'--,Alive,T2,M0,N0,Stage IIA
+TCGA-VR-A8EU,51,1960,male,0,557,Dead,T1,M1,N1,Stage IV
+TCGA-LN-A49P,71,1940,male,0,'--,Alive,T3,M0,N0,Stage IIA
+TCGA-LN-A8HZ,56,1957,male,0,'--,Alive,T2,M0,N0,Stage IIA
+TCGA-Z6-A8JD,53,1960,male,0,'--,Alive,T3,M0,N0,Stage IIB
+TCGA-JY-A93C,47,1964,male,0,'--,Alive,T3,M0,N2,Stage IIIB
+TCGA-JY-A6FH,53,1957,male,0,'--,Alive,T2,M0,N1,Stage IIB
+TCGA-L5-A88W,67,1940,male,0,764,Dead,T3,MX,N0,Stage IIA
+TCGA-JY-A6FB,77,1930,male,0,'--,Alive,T1,M0,N0,Stage I
+TCGA-VR-A8EY,44,1968,female,0,'--,Alive,T3,M0,N0,Stage IIA
+TCGA-L5-A88V,60,1947,male,0,'--,Alive,T3,MX,N1,Stage III
+TCGA-L5-A8NV,75,1926,male,0,1599,Dead,T3,M0,N0,Stage IIA
+TCGA-Q9-A6FW,61,1952,male,0,'--,Alive,T3,M0,N2,Stage IIIB
+TCGA-LN-A4A9,58,1954,male,0,351,Dead,T2,M0,N0,Stage IIA
+TCGA-2H-A9GO,58,1942,male,0,494,Dead,T3,M1a,N1,Stage IVA
+TCGA-L5-A4ON,65,1945,male,0,558,Dead,T1,'--,N1,Stage IIB
+TCGA-LN-A9FO,42,1971,male,0,'--,Alive,T2,M0,N0,Stage IIA
+TCGA-X8-AAAR,69,1944,male,0,'--,Alive,T1,'--,N1,'--
+TCGA-L5-A4OI,79,1933,male,0,'--,Alive,T3,MX,N3,Stage IIIC
+TCGA-L5-A4OJ,70,1942,female,0,'--,Alive,T1,M0,N0,Stage I
+TCGA-LN-A4MR,57,1955,male,0,'--,Alive,T2,M0,N0,Stage IIA
+TCGA-R6-A8W8,72,1940,male,0,88,Dead,'--,'--,'--,'--
+TCGA-V5-A7RB,59,'--,male,0,161,Dead,T0,MX,N1,'--
+TCGA-2H-A9GI,68,1931,male,0,435,Dead,T3,M0,N1,Stage III
+TCGA-L5-A8NU,84,1917,male,0,2134,Dead,T2,M0,N0,Stage IIA
+TCGA-LN-A9FR,70,1943,male,0,'--,Alive,T2,M0,N1,Stage IIB
+TCGA-VR-A8ET,64,1946,male,0,47,Dead,T2,M0,N0,Stage IIA
+TCGA-R6-A6L4,27,1985,male,0,496,Dead,'--,'--,'--,'--
+TCGA-L5-A8NW,55,1946,male,0,1402,Dead,T2,M0,N1,'--
+TCGA-L5-A4OS,86,1924,female,0,'--,Alive,T2,M0,N1,Stage IIB
+TCGA-LN-A5U7,46,1966,male,0,'--,Alive,T2,M0,N0,Stage IIA
+TCGA-VR-A8EP,51,1962,male,0,'--,Alive,T3,M0,N2,Stage IIIB
+TCGA-L5-A8NR,81,1920,female,0,'--,Alive,T3,M0,N1,Stage III
+TCGA-LN-A49W,73,1938,male,0,'--,Alive,T3,M0,N1,Stage III
+TCGA-L7-A6VZ,62,1951,male,0,'--,Alive,T3,MX,N3,Stage IIIC
+TCGA-R6-A6DQ,74,1936,female,0,231,Dead,'--,'--,'--,'--
+TCGA-IG-A5S3,69,1943,female,0,'--,Alive,T3,M0,N0,Stage IIB
+TCGA-VR-AA4G,51,1962,female,0,'--,Alive,T2,M0,N2,Stage IIIA
+TCGA-L5-A8NF,57,1944,male,0,81,Dead,T1,M1a,N0,Stage IVA
+TCGA-LN-A4A4,36,1975,male,0,'--,Alive,T3,M0,N1,Stage III
+TCGA-2H-A9GR,80,1919,male,0,987,Dead,T3,M0,N0,Stage IIA
+TCGA-LN-A49S,59,1952,male,0,'--,Alive,T3,M0,N0,Stage IIA
+TCGA-L5-A4OG,79,1933,female,0,'--,Alive,T1,M0,N0,Stage I
+TCGA-2H-A9GJ,57,1943,male,0,1781,Dead,T1,M0,N0,Stage I
+TCGA-KH-A6WC,82,1931,male,0,'--,Alive,T1,M0,N0,Stage IA
+TCGA-LN-A7HZ,49,1964,male,0,'--,Alive,T2,M0,N0,Stage IIA
+TCGA-2H-A9GQ,80,1921,male,0,128,Dead,T3,M0,N1,Stage III
+TCGA-L5-A891,51,1954,male,0,'--,Alive,T3,M0,N1,'--
+TCGA-XP-A8T6,54,1955,male,0,763,Dead,T2,M0,N1,Stage IIB
+TCGA-IG-A51D,63,1949,male,0,'--,Alive,T1,M0,N1,Stage IIB
+TCGA-L5-A893,71,1934,female,0,'--,Alive,T1,M0,N0,Stage I
+TCGA-L5-A88Y,76,1930,male,0,'--,Alive,T1,MX,N0,'--
+TCGA-VR-A8EZ,47,1966,male,0,553,Dead,T3,M0,N3,Stage IIIC
+TCGA-ZR-A9CJ,65,1947,male,0,600,Dead,T3,MX,N3,Stage IIIC
+TCGA-LN-A4A6,65,1947,male,0,'--,Alive,T2,M0,N0,Stage II

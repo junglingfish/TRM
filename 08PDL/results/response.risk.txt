@@ -1,0 +1,5 @@
+type	Risk	Percentage
+CR/PR	High	0.17
+PD/SD	High	0.83
+CR/PR	Low	0.29
+PD/SD	Low	0.71

@@ -1,0 +1,7 @@
+Group	p_value	significance
+Risk	<0.001	***
+ABLIM1	<0.001	***
+CSTB	<0.001	***
+MAL2	<0.001	***
+IFT57	0.00607537390801836	**
+PPEF1	<0.001	***
